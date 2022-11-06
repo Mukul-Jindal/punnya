@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581981391847",
+    "project_id": "jai-ngo",
+    "storage_bucket": "jai-ngo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581981391847:android:8b4cb3e281a430521c0b42",
+        "android_client_info": {
+          "package_name": "com.example.delhihackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581981391847-0q2mubcc1pacjkqu4uih3i8u3amru4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8Wy4kI7ilkF00Ya-Ae5Inzbj86HoSo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581981391847-0q2mubcc1pacjkqu4uih3i8u3amru4d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
